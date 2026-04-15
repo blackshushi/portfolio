@@ -71,7 +71,7 @@ const Resume = () => {
       <Box maxW="800px" mx="auto" p={6} display="flex">
         <Button
           as="a"
-          href="/AlexResume.pdf"
+          href="./public/AlexResume.pdf"
           download
           colorScheme="blue"
           justifyContent="flex-end"

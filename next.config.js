@@ -1,6 +1,13 @@
+const repo = 'portfolio'
+
 const nextConfig = {
   output: 'export',
-  images: { unoptimized: true }
+  distDir: 'docs',
+  basePath: `/${repo}`,
+  assetPrefix: `/${repo}/`,
+  images: {
+    unoptimized: true
+  }
 }
 
 module.exports = nextConfig

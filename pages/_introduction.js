@@ -28,7 +28,7 @@ const Instruction = () => {
           boxSize={{ base: '180px', md: '180px' }}
           objectFit="cover"
           borderRadius="full"
-          src="/images/profile_pic.jpeg"
+          src="./public/images/profile_pic.jpeg"
           alt="Profile Image"
           order={{ base: 1, md: 2 }}
         />
