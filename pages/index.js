@@ -26,7 +26,10 @@ const Page = () => {
       >
         <p>Hi! Welcome to my page.</p>
 
-        <p>I am currently looking for a job, feel free to contact me!</p>
+        <p>
+          I’m a Senior Backend Engineer specializing in Golang and Ruby on
+          Rails, currently open to new opportunities. Feel free to reach out!
+        </p>
       </Box>
 
       <Section delay={0.3}>
