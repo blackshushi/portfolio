@@ -21,6 +21,7 @@
     "@emotion/is-prop-valid": "^1.1.1",
     "@emotion/react": "^11.7.0",
     "@emotion/styled": "^11.6.0",
+    "@vercel/analytics": "^2.0.1",
     "framer-motion": "^5.3.3",
     "fs": "^0.0.1-security",
     "next": "^16.2.3",
